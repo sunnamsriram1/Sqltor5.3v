@@ -13,4 +13,6 @@
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git tor curl -y
+chmod +x Sqltor5.3v.sh
+bash Sqltor5.3v.sh
 pip install -r requirements.txt
