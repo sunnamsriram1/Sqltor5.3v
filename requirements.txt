@@ -1,0 +1,4 @@
+sqlmap
+torsocks
+curl
+tor
